@@ -32,7 +32,7 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
 
 
 - Ao clicar em um filme redirecionar para uma página contendo mais detalhes do título selecionado;
-- Link para voltar a busca de filmes.
+- Link para voltar para a página de busca de filmes.
 
 
 ## 5. DICAS E INSTRUÇÕES
