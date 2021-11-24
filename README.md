@@ -56,8 +56,7 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
 
 Exemplo: `https://www.omdbapi.com?s=avengers&type=movie&apikey=cfbeb247`
 
-## 7. EXECUÇÃO DO PROJETO
+## 7. EXECUÇÃO E INSTALAÇÃO DO PROJETO
 
-Para rodar o projeto em ambiente local basta executar o seguinte comando:
-
-- `yarn start` ou `npm run start`
+- Instalação de dependências: `yarn install` ou `npm install`
+- Execução: `yarn start` ou `npm run start`
