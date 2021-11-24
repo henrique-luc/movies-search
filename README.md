@@ -7,7 +7,7 @@ Esse repositório é o seu ponto de partida e contém tudo que é necessário pa
 
 Pair programming (programação em pares) é uma prática adotada por muitas equipes de desenvolvimento de software visando melhorar a qualidade do código e a comunicação entre a equipe.
 
-Portanto, o objetivo dessa etapa é simular o cenário anterior para que você possa demonstrar os seus conhecimentos através de uma pequena implementação em tempo real utilizando a biblioteca de construção de interfaces ReactJS.
+Portanto, o objetivo dessa etapa é simular esse cenário para que você possa demonstrar os seus conhecimentos através de uma pequena implementação em tempo real utilizando a biblioteca de construção de interfaces ReactJS.
 
 Incentivamos fortemente que o candidato desenvolva sua capacidade de comunicação com o colega que estará avaliando, além de mostrar as suas habilidades técnicas.
 
