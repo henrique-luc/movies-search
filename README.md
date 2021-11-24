@@ -55,3 +55,9 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
   - apikey - token de acesso `cfbeb247`
 
 Exemplo: `https://www.omdbapi.com?s=avengers&type=movie&apikey=cfbeb247`
+
+## 7. EXECUÇÃO DO PROJETO
+
+Para rodar o projeto em ambiente local basta executar o seguinte comando:
+
+- `yarn start` ou `npm run start`
