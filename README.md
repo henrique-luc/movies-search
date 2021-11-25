@@ -21,8 +21,8 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
 
 - Realizar buscas através da API de filmes utilizando um parâmetro de texto informado pelo usuário;
 - Exibir quantidade de itens encontrados:
-- Caso a quantidade de itens for maior que 0 exibir o texto: `10 itens encontrados`
-- Caso a quantidade de itens for igual a 0 exibir o texto: `Nenhum item foi encontrado com o texto informado`
+  - Caso a quantidade de itens for maior que 0 exibir o texto: `10 itens encontrados`
+  - Caso a quantidade de itens for igual a 0 exibir o texto: `Nenhum item foi encontrado com o texto informado`
 - Exibir listagem dos filmes contendo:
   - Poster do filme;
   - Título do filme.
@@ -32,7 +32,8 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
 
 
 - Ao clicar em um filme redirecionar para uma página contendo mais detalhes do título selecionado;
-- Link para voltar para a página de busca de filmes.
+- Link para voltar para a página de busca de filmes;
+- Dropdown para seleção do tipo de conteúdo a ser buscado [filmes, series, episódios].
 
 
 ## 5. DICAS E INSTRUÇÕES
