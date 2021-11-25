@@ -42,7 +42,7 @@ O projeto consiste em criar uma interface utilizando ReactJS que irá consumir u
 - O modo como o usuário irá informar o parâmetro para busca através da API é de escolha do candidato;
 - Para a estilização dos componentes utilizar a biblioteca [Styled Components](https://styled-components.com/);
 - Para o roteamento das páginas utilizar [React Router](https://v5.reactrouter.com/web/guides/quick-start);
-- Para realizar as requisições a API utilizar [Axios](https://axios-http.com/docs/intro).
+- Para realizar as requisições HTTP utilizar [Axios](https://axios-http.com/docs/intro).
 
 
 ## 6. API DE BUSCA DE FILMES
