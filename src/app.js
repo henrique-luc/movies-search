@@ -21,11 +21,13 @@ function App() {
         <Switch>
           <Route path="*">
             <Title>Live Coding - Pulsus</Title>
-            {movies.map((movie, index) => {
-              return (
-                <div key={`${index}-${movie.imdbID}`}>{`${index + 1} - ${movie.Title}`}</div>
-              );
-            })}
+            <ol>
+              {movies.map((movie, index) => {
+                return (
+                  <li key={`${index}-${movie.imdbID}`}>{movie.Title}</li>
+                );
+              })}
+            </ol>
           </Route>
         </Switch>
       </BrowserRouter>
