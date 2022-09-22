@@ -1,6 +1,6 @@
+import axios from "axios";
 import { useEffect, useState } from "react";
 import Routes from "./routes";
-import api from "./services/api";
 import { GlobalStyle } from "./style/global";
 
 function App() {
@@ -8,8 +8,10 @@ function App() {
   const [newSearch, setNewSearch] = useState({});
 
   useEffect(() => {
-    api
-      .get(`s=${newSearch.search}&type=${newSearch.select}&apikey=cfbeb247`)
+    axios
+      .get(
+        `https://www.omdbapi.com?s=${newSearch.search}&type=${newSearch.select}&apikey=cfbeb247`
+      )
       .then((response) => {
         set_movies(response.data.Search);
       })
