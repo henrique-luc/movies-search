@@ -25,7 +25,7 @@ export default function Search({ setNewSearch }) {
         <select {...register("select")}>
           <option value="movie">Filmes</option>
           <option value="series">Séries</option>
-          <option value="episode">Séries</option>
+          <option value="episode">Episódios</option>
         </select>
         <button type="submit">Pesquisar</button>
       </form>
